@@ -3,5 +3,10 @@
     height: 100%;
     color: #000;
     z-index: 1;
+    box-shadow: 3px 3px 5px #000;
+}
 
+.piano-note_white:hover {
+    background-color: rgba(205, 205, 205, 1);
+    box-shadow: 0 0 0 #000;
 }
