@@ -4,7 +4,7 @@ import './piano-note.css';
 function PianoNoteBlack(props) {
 
     return (
-        <button className='piano-note piano-note_black'>
+        <button className='piano-note piano-note_black' id={props.pos}>
             {props.pos}
         </button>    
     )

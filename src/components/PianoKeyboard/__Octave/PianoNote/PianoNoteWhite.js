@@ -4,7 +4,10 @@ import './piano-note.css';
 function PianoNoteWhite(props) {
 
     return (
-        <button className='piano-note piano-note_white'>
+        <button 
+            className='piano-note piano-note_white' 
+            id={props.pos}
+        >
             {props.pos}
         </button>
     )
