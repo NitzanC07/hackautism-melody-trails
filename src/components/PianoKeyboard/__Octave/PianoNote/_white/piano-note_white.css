@@ -1,0 +1,7 @@
+.piano-note_white {
+    background-color: #fff;
+    height: 100%;
+    color: #000;
+    z-index: 1;
+
+}

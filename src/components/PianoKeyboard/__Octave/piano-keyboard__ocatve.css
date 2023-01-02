@@ -1,0 +1,12 @@
+.piano-keyboard__octave {
+    background-color: #555;
+    width: 308px;
+    height: 90%;
+    border: 0px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
