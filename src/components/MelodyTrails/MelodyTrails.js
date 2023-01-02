@@ -5,7 +5,7 @@ function MelodyTrails(props) {
     return (
         <section className="melody-trails">
             <div>
-                Melody Trails
+                Melody Trails - Hackutism
             </div>
         </section>
     )
