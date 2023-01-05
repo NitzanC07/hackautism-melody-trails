@@ -1,14 +1,20 @@
+import BottomAreaMelody from './BottomAreaMelody/BottomAreaMelody';
+import MainAreaMelody from './MainAreaMelody/MainAreaMelody';
+import TopAreaMelody from './TopAreaMelody/TopAreaMelody';
 import './melody-trails.css';
+
 
 function MelodyTrails(props) {
 
     return (
         <section className="melody-trails">
-            <div>
-                Melody Trails - Hackutism.
-                Developer: Nitzan Cohen.
-                Here is the view of melodies.
-            </div>
+            
+            <TopAreaMelody />
+
+            <MainAreaMelody /> 
+
+            <BottomAreaMelody />
+
         </section>
     )
 }

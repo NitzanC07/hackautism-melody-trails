@@ -5,7 +5,7 @@ function PianoNoteBlack(props) {
 
     return (
         <button className='piano-note piano-note_black' id={props.pos}>
-            {props.pos}
+            {props.pos} {props.note}
         </button>    
     )
 }

@@ -8,7 +8,7 @@ function PianoNoteWhite(props) {
             className='piano-note piano-note_white' 
             id={props.pos}
         >
-            {props.pos}
+            {props.pos} {props.note}
         </button>
     )
 }
