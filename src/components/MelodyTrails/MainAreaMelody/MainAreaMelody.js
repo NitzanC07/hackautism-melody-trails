@@ -20,6 +20,7 @@ function MainAreaMelody(props) {
             <div className='row__2_low'></div>
             <div className='row__1_high'></div>
             <div className='row__1_low'></div>
+            <div className='main-area-melody__home'></div>
             <div className='note__1__high'></div>
             <div className='note__2__high'></div>
             <div className='note__3__high'></div>
