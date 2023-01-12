@@ -1,6 +1,6 @@
 import './app.css';
 import MelodyTrails from '../MelodyTrails/MelodyTrails';
-import PianoKeyboard from '../PianoKeyboard/PianoKeyboard';
+// import PianoKeyboard from '../PianoKeyboard/PianoKeyboard';
 
 function App() {
   return (

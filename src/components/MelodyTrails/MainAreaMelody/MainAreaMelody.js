@@ -35,6 +35,7 @@ function MainAreaMelody(props) {
             <div className='note__3__low'></div>
             <div className='note__2__low'></div>
             <div className='note__1__low'></div>
+
         </section>
     )
 }
