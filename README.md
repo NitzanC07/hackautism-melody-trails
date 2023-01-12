@@ -5,9 +5,16 @@ Melody Trails is a music education platform developed as part of Hackutism, a ha
 [Melody Trails](https://hackotism-melody-trails.vercel.app/)
 
 ## How to run the project localy
+### Firstly, clone the repository to your local machine and enter to the right directory.
 ```
 git clone https://github.com/NitzanC07/Hackotism__MelodyTrails.git
 cd ./melody-trails
+```
+### Secondly, install npm inside the directory.
+```
 install npm
+```
+### And the last step run the application.
+```
 npm start
 ```
