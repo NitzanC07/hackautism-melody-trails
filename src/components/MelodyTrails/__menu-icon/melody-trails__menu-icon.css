@@ -1,0 +1,17 @@
+.melody-trails__menu-icon {
+    width: 105px;
+    height: 105px;
+    background-color: transparent;
+    border: 2px solid #FFEDDB;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.melody-trails__menu-icon:hover {
+    background-color: #ffeddb;
+}

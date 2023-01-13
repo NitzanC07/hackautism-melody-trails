@@ -1,0 +1,10 @@
+.melody-trails__menu {
+    width: 105px;
+    height: 105px;
+    background-color: #FFEDDB;
+    border: 0;
+    border-radius: 50%;
+    position: absolute;
+        left: 24px;
+        bottom: 24px;
+}
